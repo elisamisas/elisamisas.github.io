@@ -866,3 +866,7 @@ body:after {
     color: #888888; }
     .footer a:hover {
       color: #000; }
+
+.agenda-row {
+margin-bottom: 15px;
+}
